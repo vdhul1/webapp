@@ -1,3 +1,2 @@
-FROM nginx:1.21.6
-
+FROM httpd:2.4
 ADD ./var/www/html
